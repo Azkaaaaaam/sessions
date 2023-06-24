@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Define the base URL for your Flask application
-BASE_URL = 'http://127.0.0.1:5000/'
+BASE_URL = 'https://session.loca.lt'
 
 # Streamlit UI code
 st.title('Order Metrics Dashboard')
